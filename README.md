@@ -2,7 +2,7 @@
 
 This project implements a logo detection system using YOLOv8, capable of detecting various logos in images.
 
-For the full project report, see the [PDF report](results/LogoDetection_Report.pdf).
+For the full project report, see the [PDF report](results/Logo Detector - Report 25102025.pdf).
 
 ## Project Structure
 
