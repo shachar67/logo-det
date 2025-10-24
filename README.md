@@ -164,9 +164,7 @@ python main.py any_logo --help
    - Training and evaluation pipeline
 
 2. Improvements
-   - Data augmentation techniques
-   - Model architecture modifications
-   - Training strategy optimizations
+   - High resolution model
 
 3. New Logo Detection
    - Solution for detecting new logos from section 2
