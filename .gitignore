@@ -27,7 +27,7 @@ weights/*
 # Training results
 runs/
 logo_detection/
-results/training/
+
 
 # Dataset backups
 *.bak
