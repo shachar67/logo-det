@@ -1,0 +1,34 @@
+{
+    "train": {
+        "image_count": 937,
+        "class_distribution": {
+            "fedex": 465,
+            "spotify": 334,
+            "nike": 654,
+            "puma": 822,
+            "sap": 233
+        },
+        "mean_boxes_per_image": 2.6766275346851653,
+        "max_boxes_per_image": 27,
+        "mean_image_size": {
+            "width": 1415.6008537886873,
+            "height": 800.4941302027748
+        }
+    },
+    "test": {
+        "image_count": 137,
+        "class_distribution": {
+            "nike": 94,
+            "spotify": 46,
+            "fedex": 25,
+            "puma": 86,
+            "sap": 49
+        },
+        "mean_boxes_per_image": 2.18978102189781,
+        "max_boxes_per_image": 17,
+        "mean_image_size": {
+            "width": 1415.2846715328467,
+            "height": 797.021897810219
+        }
+    }
+}

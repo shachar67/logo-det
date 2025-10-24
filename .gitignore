@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model weights (except .gitkeep)
+weights/*
+!weights/.gitkeep
+
+# Training results
+runs/
+logo_detection/
+results/training/
+
+# Dataset backups
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore data folder
+data/
+

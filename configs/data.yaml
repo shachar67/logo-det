@@ -1,0 +1,11 @@
+path: C:\projects\logo-det\data\logos-dataset-section-1\logos_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: fedex
+  1: nike
+  2: puma
+  3: sap
+  4: spotify
+nc: 5
